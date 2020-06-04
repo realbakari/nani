@@ -7,7 +7,7 @@ import './Footer.css'
 const Footer = ({wrapped = true}) => (
   <div className={wrapped ? 'container' : ''}>
     <Card body className='mb-4 mt-4 bg-light footer'>
-      <p className='m-0'>&copy; Bakari Mustafa 2020</p>
+      <p className='m-0'>&copy; Prosphere Studio 2020</p>
     </Card>
   </div>
 )
