@@ -42,7 +42,7 @@ class Header extends Component {
           <NavbarBrand tag={Link} to='/'>
             <div className='logo d-md-none d-lg-inline-block' style={{ width: '2rem', height: '2rem' }} />
             {' '}
-            nani?!
+            Prosphere Studio
           </NavbarBrand>
           <NavbarToggler onClick={() => this.setState({ collapsed: !collapsed })} />
           <Collapse isOpen={collapsed} navbar>
