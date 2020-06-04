@@ -218,7 +218,7 @@ class Options extends Component {
                         <Button
                           color='info'
                           block
-                          href='https://anilist.co/api/v2/oauth/authorize?client_id=470&response_type=token'
+                          href='https://anilist.co/api/v2/oauth/authorize?client_id=3595&response_type=token'
                           target='_blank'
                           rel='noopener noreferrer'
                         >Login</Button>
